@@ -1,0 +1,806 @@
+<data hero="schaf">
+<text>
+<tox rate="5" response="post: animate" type="general_insult">Верблюдов-то за что? <lex>Дебилы</lex>, <lex>бл</lex>...</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult">Страницу обнови, <lex>дебил</lex>. <phrase type="direct">Это тоже не оскорбление, а доказанный факт</phrase> - не-<lex>дебил</lex> про себя во множественном числе писать не будет. Или мы в тебя верим - это <phrase type="direct">ты и твои воображаемые друзья</phrase>?</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult"><phrase type="indirect"><lex>Ебать</lex> тебя разносит</phrase>, <lex>шизик</lex>.</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult"><phrase type="indirect"><lex>Обосрался</lex>, сиди обтекай</phrase></tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">Зачем ты пишешь <lex>хуйню</lex>, <lex>дегенерат</lex>?</tox> <tox rate="2" response="person" type="harassment">Поцелуй в губы ! <phrase type="indirect">поцелую в засос</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult"><phrase type="indirect">Можем на тебя ещё и модера за <lex>безмозглых</lex> позвать</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult">хорош врать, <phrase type="indirect">ты <lex>террорист</lex>-<lex>торчёк</lex>-<lex>шизофреник</lex></phrase> пруф: а вот без костюма да чутка учёный, миллиардер, филантроп</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Мэдисон Тоже такой же стример <phrase type="indirect">Это такой троллинг или тебя мать в детстве роняла?</phrase> <phrase type="indirect">Тебе нравится прикидываться <lex>тупым</lex> или ты просто <lex>тупой</lex>?</phrase></tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">Ну, посмотрел я комментарии к твоим постам, <phrase type="direct">процент <lex>говнокомментов</lex> ниже средней отметки</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult">А где я это утверждал, <lex>чмоха</lex>? Опять спалились.</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Да какая агрессия. <phrase type="indirect">Тебя ткнули в твое же <lex>дерьмо</lex></phrase>. Обтекай. Это я без отрицательных эмоций. Просто факт.</tox>
+</text>
+
+<text>
+<tox rate="7" response="post: animate" type="general_insult">Это совсем не смешно. Но <lex>уроды</lex> могут поржать. И им даже не объяснишь, что они <lex>уроды</lex>. Они приспособились с этим жить. Пока они потребляют, они удобны тому, кто продает им <lex>хавку</lex> и <lex>цацки</lex>, так что, скорее, верно ваше утверждение <phrase type="direct">мир <lex>ебанутый</lex></phrase> , если совсем узко смотреть.</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Тебе даже сказать нечего, понимаешь? У тебя нету даже своего понимания вопроса. <phrase type="indirect">Ты как животное или даже хуже</phrase>. Не отвечай мне больше такими <lex>высерами</lex>, <phrase type="direct">типичный представитель травли тредов</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult"><phrase type="indirect">Диванный политолог слился</phrase>, как обычно</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">С каких пор <lex>неадекват</lex> - это оскорбление? На Пикабу тысячи таких комментариев, и модераторы, даже будучи призванными, их не удаляют. Я вас <lex>дураком</lex> не называл. Это был вопрос: ты <lex>дурак</lex>? . И опять же, таких вопросов на Пикабу тысячи, если не больше, вплоть до ты <lex>ебанутый</lex>? или ты <lex>долбоеб</lex>? - и они тоже не считаются оскорблением и не удаляются. Вы считаете оскорблением то, что тысячи раз до этого оскорблениями не считали. Если правила в одном случае работают, а в другом нет, то это что угодно, но не правила.</tox>
+</text>
+
+<text>
+<tox rate="5" response="author" type="hate_speech: nationality"><phrase type="indirect">этот самоподдув из <lex>манямирка</lex> <lex>какла</lex></phrase>.</tox> <tox rate="4" response="author" type="general_insult">весь мир, сам аллах завидуют <phrase type="indirect">жителю нищей <lex>полубандитской</lex> <lex>папуасии</lex> на окраине россии</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="8" response="post: animate" type="general_insult"><phrase type="direct">Люди <lex>зажрались</lex> и <lex>охуели</lex></phrase> если по мнению этих игроков андромеда лучше Антема. Хотя че там с багаутом76 сравнивают вон... Вот оно че оказывается, <phrase type="direct">игроки просто <lex>охуели</lex></phrase>, ну ок. Вот <phrase type="indirect"><lex>долбанные</lex> <lex>пидерасы</lex></phrase>, не хотят покупать такую отличную игру, а еще смеют ругать такой божественный геймплей. Баги, <lex>хуевый</lex> геймплей поправят, а контент, ну его запилят, через год другой, причем бесплатно! Ага. Стоит лишь потерпеть!</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult">Ладно, ты <lex>обсерился</lex>, я тебя понял. Можешь уходить.</tox>
+</text>
+
+<text>
+<tox rate="8" response="author" type="hate_speech: nationality"><lex>Блядь</lex>, <lex>хохлы</lex>, вы бы хоть с проксей писали, <phrase type="direct"><lex>няши</lex> <lex>тупые</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">Уважаемый, <phrase type="direct">ты реально <lex>глупый</lex> и не вкуриваешь</phrase>, о чьих именно трусах идет речь? Или просто <phrase type="indirect"><lex>дурака</lex> валяешь</phrase>?</tox>
+</text>
+
+<text>
+<tox rate="8" response="post: animate" type="hate_speech: gender"><phrase type="direct"><lex>Тупая</lex> <lex>шлюха</lex></phrase>, эта <lex>мразь</lex> лила отбеливатель на штаны и все что под ними. Я еду по делам а мне обливают штаны, ну <lex>охуенно</lex> наверно, баловство оно такое! Если бы по приколу было и не преследовалась цель <phrase type="direct"><lex>бабской</lex> <lex>ебанутой</lex> мести</phrase>, как это явно прослеживается, она могла бы просто стрельнуть из водного пистолета водой. ВС ! И <lex>мужики</lex> бы задумались и никто не в обиде.</tox>
+</text>
+
+<text>
+<tox rate="7" response="post: animate" type="general_insult">Что те <lex>быдло</lex>, что те. <lex>Быдло</lex> <lex>пиздит</lex> <lex>быдло</lex>. Ну нормально так.</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="hate_speech: lgbtq*">Так ты <lex>гомосексуалист</lex>?</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">Мой коммент - ответ на другой коммент. Это видно прямо на мониторе. Ответ по теме. А <phrase type="indirect">Ваше выступление - выезд на лыжах из... не знаю уж откуда. Но лучше Вам туда вернуться</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="profanity">Ты из какого века <lex>блядь</lex>?</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">Ну, ясно-понятно, высказать аргументы вы не можете, умеете только на минус нажать. Ок, я пошла - чего с <lex>безмозглыми</lex> разговаривать, всё равно скоро <phrase type="indirect">докраситесь за рулём и в дтп все и помрёте</phrase>. Естественный отбор, чо.</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="hate_speech: gender"><lex>всраньку</lex> леху пыню влада сисяна <lex>затравили</lex>, а эту <lex>шлюху</lex> нет. Почему? она тян.</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult"><lex>Шизоид</lex>, где ты здесь установил взаимосвязь, лол? <phrase type="indirect">До толчка тоже зигзагами бегаешь?</phrase></tox>
+</text>
+
+<text>
+<tox rate="4" response="post: animate" type="profanity"><lex>Тупой</lex>-<lex>тупой</lex>-<lex>тупая</lex>, ти-ля-ля-лю-лю!</tox>
+</text>
+
+<text>
+<tox rate="1" response="person" type="general_insult">А ты кто такой?<phrase type="direct">Иди отседова</phrase></tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">Уважаемый, да вы <lex>бредите</lex>. заварите ка как на картинке на любом заводе, где есть сварка. такая подойдёт?</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult"><lex>Блядь</lex>, <phrase type="direct"><lex>ебаный</lex> ты <lex>шизоид</lex></phrase>, ты можешь нормально выражать свои мысли? <phrase type="direct">Твой поток сознания читать просто не возможно</phrase>. Возникает ощущение, что <phrase type="direct">у тебя разорванное мышление или речевая бессвязность. Просто словесный шум какой-то</phrase>. <phrase type="direct">Прими таблетки и не забывай посещать психиатра, у которого наблюдаешься</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">потому что могу <phrase type="indirect">у тебя бамбануло, хаха порвался</phrase></tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">с учётом ваших длинных комментариев- так и есть <phrase type="indirect">смеешься там как умственно отсталый</phrase></tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">Это как? Есть какие-либо критерии как смеются умственно отсталые? Или ты как обычно <phrase type="direct">пишешь абстрактные вещи, смысл которые даже тебе не понятен</phrase>?</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult"><phrase type="direct">Подите рот с мылом вымойте</phrase>, товарищ.</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="hate_speech: nationality">Да мы поняли что ты <phrase type="direct"><lex>пидорьё</lex> <lex>ебаное</lex>, поляк наверное</phrase>. <phrase type="indirect">Иди уроки выучи, портфель собери</phrase>, че ты.</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult">Значит, ты тут <phrase type="indirect">подскочил, как петух на жердочке, вскукарекнул</phrase>, когда попросили пруф - слился и даже не извинился. Мне кажется, или в этой ситуации кто-то себя слегка неправильно ведет?</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">И что? Сотню людей знаю с двумя санузлами в доме, ни одного, чтоб они оба не унисекс были. Какой ближе свободен - тем любой гендер и пользуется. Ты <phrase type="direct"><lex>жопой</lex> завилял</phrase>. Давай пруфы твоего, нормального человека, жилища с сортирами как в кинотеатре! С табличками пикрил ! каждой <lex>пидорахи</lex> в доме унисекс Ты же с этого <lex>выёбываться</lex> начал! Предъяви свои 2 отдельно-гендерных, <phrase type="direct">нормальный <lex>пиздобол</lex></phrase> !</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult"><lex>Убогий</lex>, как тебе, <lex>говнюку</lex>, не повезло в жизни, <phrase type="indirect">кругом <lex>говно</lex> и <lex>наркоманы</lex></phrase>. Живи дальше и <phrase type="indirect">злобствуй и плюйся своей ядовитой слюной. Побольше желчи вырабатывай - быстрей сдохнешь</phrase></tox>
+</text>
+
+<text>
+<tox rate="6" response="post: animate" type="general_insult">лучше бы юбики сплинтерселл новый сделали. <phrase type="direct"><lex>уроды</lex> <lex>ленивые</lex></phrase></tox>
+</text>
+
+<text>
+<tox rate="8" response="post: animate" type="hate_speech: nationality">Западенские <lex>каклы</lex> в Польше - это <phrase type="direct"><lex>чмо</lex> <lex>пиздец</lex></phrase> какое просто. Сам лично одному там в автобусе втащил. Его <lex>блядь</lex> приняв меня за <lex>поланда</lex> начала обкладывать русским матом за то что я их согнал в автобусе с первых мест за которые заплатил, типа я <phrase type="direct"><lex>нихуя</lex> не понимаю</phrase>. Сами поляки при этом в кайф стояли и смотрели как <phrase type="indirect"><lex>русачек</lex> щемит <lex>какла</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult"><phrase type="direct">21 век, как ты такой неграмотный?</phrase></tox>
+</text>
+
+<text>
+<tox rate="10" response="person" type="harassment">Игорь, ты? Помнишь меня? Я твой одноклассник. Я узнал тебя по твоим <phrase type="direct"><lex>шизоидным</lex> словам</phrase> и <lex>высерам</lex>. А помнишь, как мы всем классом <lex>нассали</lex> тебе в кружку в третьем классе, на сладкоежке? Ты ещё выпил, облизнулся и попросил добавки. А потом тебя пришёл забирать твой отец, тот самый дворник, который на Вернадского <lex>изнасиловал</lex> собаку и получил условный срок за то, что украл плавленный сырок в магазине. Он зашёл в класс, все стали смеяться, а ты <lex>обосрался</lex> под себя от стыда, а потом сказал, что всю жизнь будешь ненавидеть дворником, но в 9м классе, когда ты пошёл на рейд, чтобы их <lex>отпиздить</lex>, то они пустили тебя по кругу, после чего тебе наложили на <lex>анус</lex> восемь швов. Как поживаешь, Игорян?</tox>
+</text>
+
+<text>
+<tox rate="9" response="post: animate" type="hate_speech: nationality">Всегда знал, что эта <phrase type="direct"><lex>поехавшая</lex> <lex>сука</lex></phrase>-<lex>хохлушка</lex>.</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult">А в твоем <lex>блять</lex> не стояли! вы же <phrase type="indirect"><lex>пердуны</lex> старый</phrase> все высоко духовные интеллектуалы.</tox>
+</text>
+
+<text>
+<tox rate="7" response="post: animate" type="profanity"><lex>Блядь</lex>, каждая вторая семья разваливается. А они не рассчитывают Так они сами всё портят, сами друг другу <phrase type="indirect">мозги клюют</phrase>. <lex>Дебилы</lex>, <lex>бля</lex>.</tox>
+</text>
+
+<text>
+<tox rate="10" response="person" type="threat">Таких как ты <lex>психопатов</lex> <phrase type="direct">на <lex>хуй</lex> <lex>отстреливать</lex> в детстве</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="8" response="post: animate" type="general_insult">Да <phrase type="indirect"><lex>насрать</lex> всем уже на это засохшее <lex>дерьмо</lex></phrase>! Алсо, скорее всего <phrase type="indirect">жирный <lex>свин</lex></phrase> почуял что его <phrase type="indirect"><lex>блядскому</lex> магазинчику</phrase> <phrase type="direct">наступает <lex>капздец</lex></phrase> и начал пытаться маневрировать.</tox>
+</text>
+
+<text>
+<tox rate="8" response="post: animate" type="hate_speech: nationality">греки всегда <lex>падлили</lex> россии, это как <phrase type="direct"><lex>жид</lex> ы <lex>либерасты</lex></phrase>, откровенные русофобы... наши там чото с ними сюсюкаются, афоны, <lex>хуёны</lex>... а греки в ответ лишь <lex>наебывают</lex> русских да офшоры для <lex>жид</lex> олгирахов создают чтобы грабить <lex>русачков</lex>... надо признать кипр за турцией, <phrase type="indirect">пнуть под <lex>сраку</lex></phrase> <lex>вафляломея</lex> и поставить в константинополи наших русских попов И <phrase type="indirect">ПУСТЬ ВЕСЬ МИР <lex>ОТСОС</lex> Т</phrase>!!!</tox>
+</text>
+
+<text>
+<tox rate="9" response="person" type="threat">вот ты мне только что написал тебя найдут и <lex>отпиздят</lex> . то есть прямо точно. не может быть, а все, <lex>пиздец</lex>, никуда не уйти. и теперь ты отказываешься прислать ОДИН <lex>БЛЯДЬ</lex> случай? Я, кстати, сам то поискал, и значешь что?? НЕ НАШЕЛ <lex>БЛЯДЬ</lex>!!! Вот ведь сюрприз то. Я найти не могу, тебе влом так передо мной унижаться. Ну <lex>хуле</lex>. так и живем <phrase type="indirect">кукарекнул и в кусты</phrase></tox>
+</text>
+
+<text>
+<tox rate="10" response="post: animate" type="threat">он же обчный <phrase type="direct"><lex>чмоха</lex>, которого травили в шкалке за тянолицо</phrase>, почему никто его еще не <lex>отпиздил</lex>?</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Зачем тут тогда разговариваешь? <phrase type="direct">Жалко что ты вообще родился</phrase>...</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult">пруф или <phrase type="direct"><lex>пи..бол</lex> <lex>шарлатан</lex></phrase>)</tox>
+</text>
+
+
+<text>
+<tox rate="1" response="person" type="general_insult">Другого я от тебя и не ждал, <phrase type="indirect">школьник максималист</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">Так ее уже заставили ) нужно перезаставить или отменить первое. на троечку троллишь, без души, нужно душу вкладывать, что ж ты так слабо. <phrase type="direct">Образ циничного <lex>дебила</lex> не очень удачно получился</phrase>. Это как, <phrase type="direct">творишь лютую <lex>хуйню</lex></phrase>, а виновата она, действия твои, а расхлёбывать ей, она на эмоциях, а ты думаешь, что это взвешенное решение. <lex>Дебилы</lex>, <lex>блядь</lex> (с)</tox>
+</text>
+
+<text>
+<tox rate="10" response="post: animate" type="threat">Вы привели достаточно аргументов чтобы их <phrase type="direct">не просто выгнать а показательно <lex>расстрелять</lex> около подъезда</phrase>.</tox> <tox rate="6" response="person" type="general_insult">Мне более нечего вам возразить. Я не могу оперировать ценностями вашего <phrase type="direct"><lex>убого</lex> эгоистичного <lex>НЕДОразума</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="9" response="post: inanimate" type="general_insult">У меня мать в охране работала как то, там там <lex>ебали</lex> за то что ты не отвечаешь в ватсапе. Типо если вообще не будешь в группе сразу увольнение <lex>ебанутый</lex> ватсап этот, <phrase type="indirect">информационная <lex>помойка</lex></phrase>, а в Якутии ВСЕ <lex>сука</lex> на нем помешаны!</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult"><lex>Двачую</lex> этого. <phrase type="indirect"><lex>Свиньи</lex> уже в наглую <lex>пиздят</lex></phrase> что их тут нет и что они не <phrase type="indirect"><lex>срут</lex> в по мойке</phrase></tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult"><phrase type="indirect">дырка у тебя в голове</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="4" response="author" type="general_insult">Он уже <phrase type="indirect">не стесняясь по кд <lex>срет</lex></phrase>, модератор его друг что ли?</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult">На какое противоречие ты указал, <phrase type="indirect"><lex>идиот</lex> <lex>жопоглазый</lex></phrase>? Там ясно указан разграничительный признак.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">ви таки <lex>дурак</lex>, простите? )</tox>
+</text>
+
+<text>
+<tox rate="8" response="post: animate" type="hate_speech: race"><phrase type="indirect"><lex>Обезьяну</lex> колонизировали, привезли в Европу, дали возможность стать человеком</phrase>. <lex>Обезьяна</lex> отблагодарила.</tox>
+</text>
+
+<text>
+<tox rate="6" response="post: inanimate" type="general_insult">Ванька, пиаришь свой <phrase type="direct"><lex>убогий</lex> <lex>кривой</lex> сайт</phrase> и все кто с тобой несогласен( а тобой несогласны все, кроме одного анана из 2016 года) называются модераторскими <lex>подсосами</lex>.</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="hate_speech: nationality">ты совсем <lex>дурачок</lex>, <lex>хохол</lex>? что такое по твоему построенная новая дорога?</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="hate_speech: nationality"><lex>дегенерат</lex> продолжает обзывать нацию, хотя его никто на это не провоцирует русских каждый день обзывают <phrase type="indirect"><lex>хохол</lex> горит от первого же оскорбления</phrase> да. яяяясно.</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">о <lex>жопах</lex> Да нет, это твой <phrase type="indirect">свидомый мозг</phrase> дорисовывает картинку, я только <phrase type="indirect">о твоей <lex>мамке</lex>, которая за 100р сосёт <lex>хуи</lex> на трассе</phrase>, так ты <phrase type="indirect">заберешь из <lex>быдломордора</lex> свою <lex>хуесоску</lex></phrase> на окраину?</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">Это просто новый вид троллинга - троллинг <lex>тупостью</lex>. Умный оппонент приходит в ярость и бешенство, и это при том, что он прав и <lex>подебил</lex>. Да-да, победить этот вид троллинга нельзя, можно только прекратить беседу, когда ее уровень пробил днище.</tox>
+</text>
+
+
+<text>
+<tox rate="4" response="person" type="hate_speech: religion">А не ты ли тут намедни пост о каком-то кришнаитском празднике вещал? Ты лично к христианству никакого отношения не имеешь, тем более к православию, но ты самолично один решаешь за христиан как и на что им оскорбляться. <phrase type="direct">Тебя христиане еще не <lex>побили</lex> за то, что ты манипулируешь их верой, индуист?</phrase></tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">Не беспокойтесь) <lex>неадекватный</lex> человек мне написал ответ на мой комментарий</tox>
+</text>
+
+<text>
+<tox rate="8" response="author" type="general_insult">Мне часто ставят минусы и спрашивают, почему <phrase type="direct">я называю <lex>биомассу</lex> людей <lex>идиотами</lex></phrase> Отвечаю: Потому что, они пытаются писать по-русски, не умея писать по-русски. <phrase type="indirect">Автору мой толстый минус</phrase>. <phrase type="indirect">Назад в школу, <lex>животное</lex></phrase>!</tox>
+</text>
+
+<text>
+<tox rate="3" response="author" type="general_insult">Ты, <phrase type="direct">нехороший человек</phrase>, зачем на Пикабу написал? Сейчас и тут <phrase type="direct"><lex>капец</lex> настанет</phrase>...</tox>
+</text>
+
+<text>
+<tox rate="8" response="post: animate" type="hate_speech: religion">Религиозным можно быть по-разному. Я не говорю, что в той же самой <lex>пиндосии</lex> нет <phrase type="direct"><lex>упоротых</lex> на религии <lex>долбоёбов</lex></phrase>, они есть везде, ибо религия в принципе к этому располагает. Просто у нас тут по этой теме как с цепи сорвались, а государство с церковниками, почуяв выгоду, старательно масла в огонь подливают.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult"><phrase type="indirect"><lex>Подхрюкивающий</lex>, держи за прогиб</phrase>!</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult">- Ты кого тут <phrase type="indirect"><lex>тупым</lex> быком</phrase> обозвал? А ну ка!</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">Ты на <lex>сосаче</lex>, <phrase type="indirect">не нужно каргокультить тут форчок, это выглядит <lex>уебищно</lex></phrase>. Пиши по-русски <lex>жиды</lex>.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">Вы просто <phrase type="indirect">латентный веган</phrase></tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Я всё ещё жду пруф на то, что твоё между рядами вне закона. Я всё ещё жду пруфы на то, в чем ты меня обвиняешь как в реале, так и в том, что я здесь писал. Я жду пруфы твоим заявлениям. Особенно интересуют пруфы моей езды. Ну так кто здесь <lex>пиздобол</lex>?</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">я тебе не приятель, <phrase type="indirect"><lex>туша</lex> боксёрская</phrase></tox>
+</text>
+
+<text>
+<tox rate="8" response="post: inanimate" type="general_insult">Пост-<phrase type="direct">эталон малолетнего <lex>долбаёба</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">Я описал разницу и конкретные причины, по которым твои претензии к ним не относятся. Ты опять <phrase type="indirect">соскальзываешь с темы как <lex>содомит</lex> искупавшийся в оливковом масле</phrase>. Давай по делу, сисадмин.</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">Так ты ещё и <phrase type="direct">антисемит примитивный</phrase>? <phrase type="indirect">Как же всё запущено</phrase>...</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="harassment">А, не, можешь не мыться. Думаю, <phrase type="indirect">твоя <lex>подзалупная</lex> <lex>хтонь</lex>, которую экономная тянка непременно соберет в баночку, а потом щедро заправит ею твой борщ, отлично дополнит вкус блюда, придаст ему пикантности</phrase>, так сказать.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">Юный? Вы, наверное, совсем <phrase type="direct">читать не умеете</phrase>, <phrase type="indirect">смотрите в монитор, а видите <lex>хуету</lex> вашего мировозрения</phrase>. Прежде, чем <lex>пиздеть</lex>, глянули бы всю ветку коментов и с чего всё началось. Кстати, <phrase type="direct"><lex>хуею</lex> с двуличности пикабу</phrase>, я обращался к опоненту на вы он мне <phrase type="direct">с какого-то <lex>хуя</lex></phrase> начал тыкать , я его осадил, причём опять-же, на вы и я ещё и неправ. Вот уж днйствительно, <phrase type="indirect">собрание малолетних <lex>психопатов</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="10" response="post: animate" type="threat"><phrase type="direct">Правильно разбомбили сербских <lex>уродов</lex></phrase>. <phrase type="direct">Жаль что не истребили их всех</phrase></tox>
+</text>
+
+<text>
+<tox rate="4" response="post: animate" type="hate_speech: religion">Так это же католики. Католики в <lex>Бульбастане</lex> это как правило в большинстве <phrase type="indirect"><lex>отбитые</lex> змагары и адепты утопической польши</phrase> и они против любого действия властей, даже если гражданам будут выдавать каждый месяц по 10к баксов то они будут против</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult">59 год Выходы на орбиту Вы батенька, <lex>даун</lex>.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">Какую ещё <lex>нахуй</lex> правоту ? Ты сказал, что правый и за мораль и всё такое, я тебе предъявил мол есть ли у тебя семья жена. Ты начал маняврировать, что то про <lex>кукан</lex>. <phrase type="indirect">Где я слился то, <lex>питушок</lex></phrase> ?</tox>
+</text>
+
+<text>
+<tox rate="6" response="post: animate" type="general_insult"><phrase type="direct"><lex>Мерзкий</lex>, <lex>тупой</lex> но <lex>сука</lex> смешной</phrase></tox>
+</text>
+
+<text>
+<tox rate="6" response="post: animate" type="hate_speech: nationality">Даже в моей 17к (!!!) <lex>мухосрани</lex> в сибири есть чеченцы и даги. Пару лет назад одного <lex>русачка</lex> пришили за то что жену чеченца <lex>ебал</lex>. Пекут по-тихому свою шаурму, обувь ремонтируют, на стройках шабашат <lex>Наташ</lex> <lex>поябывают</lex>, в диаспоры объединяются, чтобы <phrase type="indirect"><lex>рюсню</lex> набутыливать</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">А <phrase type="indirect">вы похоже тоже из этих</phrase>? Не буду, пожалуй, вам ничего писать, <phrase type="indirect">вдруг вы заразны</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="1" response="person" type="general_insult">У тебя воображение - так себе</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult"><phrase type="indirect">Ты бы и к собаке пристроился</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult"><phrase type="indirect"><lex>Высрался</lex> ты конечно знатно</phrase>. <phrase type="indirect">Словесный понос</phrase> продемонстрировал. Всей лахтой эту <phrase type="direct">пафосную <lex>хуитку</lex></phrase> сочиняли? А по сути то сказать тебе и нечего. Я считаю что <lex>пидорахи</lex> должны покинуть политач.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">Он про марихуану и вообще <phrase type="indirect">дуй отсюда, пока твой батя новый аккаунт не спалил</phrase>.</tox>
+</text>
+
+
+<text>
+<tox rate="6" response="person" type="general_insult">Но <lex>отбитый</lex> тут ты. Ну нафантазировал, ошибся, обострение у меня весеннее, но <phrase type="direct"><lex>нахуя</lex> ты мне отвечаешь</phrase> то тогда? Чтобы убедить себя в том, что я не прав? Да, пожалуйста, я не сопротивляюсь, ты прав во все.</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult"><phrase type="direct">Глубоко <lex>пофигу</lex>?</phrase> Тем не менее ты вывалил историю на всеобщее обозрение. Для чего? Для одобрения какой ты крутой нескандалящий? Или ищешь одобрения в убеждении что <phrase type="direct">вокруг все <lex>педорасы</lex></phrase></tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Духу не хватает им в лицо сказать? Только в интернете оскорблять их готов? Тогда ты <phrase type="direct">трусливое <lex>быдло</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">Я так пишу потому что делаю это с телефона. И ради кого тут собственно редактурой заниматься? Судя по тому что аргументация у тебя скатилась к передергиванию, считаю что <phrase type="direct">твой интеллект в этом споре себя исчерпал, мальчик</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="profanity"><phrase type="direct">мне <lex>поебать</lex> на его финансы и кто он</phrase>.</tox> 
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">Не <lex>пизди</lex>, <lex>шлюха</lex>. <phrase type="direct">Выкладывай своё <lex>ебло</lex>, мы поржем</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult"><phrase type="direct">Идите на х...</phrase> со своей <lex>сраной</lex> кошкой</tox>
+</text>
+
+<text>
+<tox rate="3" response="author" type="general_insult"><phrase type="direct">Посмотрим, как начнешь визжать</phrase>, когда начнут безосновательно тереть твои треды.</tox>
+</text>
+
+<text>
+<tox rate="9" response="post: animate" type="general_insult">Я его <phrase type="indirect">в <lex>жопу</lex> <lex>ебал</lex></phrase>, его твич, его подписчиков и его контент для <phrase type="indirect">сынов <lex>дерьма</lex></phrase>. Поделом, <phrase type="direct"><lex>тупая</lex> <lex>пизда</lex> с раздутым счв</phrase> теперь навечено в бане. Благо твич сейчас чистит <lex>биомусор</lex>, спасибо ему</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Почему тян поколения Z предпочитают небелых мужчин? Объективных доказательств в пользу твоего утверждения нет, так что это всего лишь твои <phrase type="indirect"><lex>бредовые</lex> <lex>маняфантазии</lex> на фоне больного разума, и возможно, ненависти к младшему поколению</phrase>. Не тратьте на этого <lex>дурачка</lex> время.</tox>
+</text>
+
+<text>
+<tox rate="7" response="post: animate" type="general_insult">Этот сайт - <phrase type="indirect">дно Рунета</phrase>, большинство его посетителей - <phrase type="direct"><lex>выродки</lex> и <lex>отбросы</lex> общества</phrase>. Немногие интеллигенты, ищущие отдушину в анонимном общении также втягиваются в <phrase type="direct">местную маргинальную культуру</phrase> и быстро деградируют до среднестатистического анонимуса. Так что не ищите здесь уважительного общения без обсценной лексики, его нет.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">Это ты <lex>мерзкий</lex> же, я отрицал пока не стало известно официально об этом.</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult"><phrase type="direct">Оставь это клиповое <lex>говно</lex> для детей пролетариев</phrase>, <lex>дурачок</lex>. И больше <phrase type="direct">не лезь в чужие разговоры со своими <lex>глупостями</lex></phrase>, <phrase type="indirect">метапостный <lex>дебс</lex></phrase>.</tox>
+</text>
+
+
+<text>
+<tox rate="7" response="person" type="general_insult"><phrase type="indirect"><lex>Хуясе</lex> тут ОП <lex>жопки</lex> школьникам разорвал. Прямо в клочья</phrase>, лол. Самое потешное, что никто из этих ололо-тгавителей, ИРЛ не сможет затравить даже соседского кота, ибо <lex>ссыклив</lex> вне интернетов, как <phrase type="direct">последнее <lex>чмо</lex></phrase>. Вот и находят утешение в <phrase type="indirect">анонимном петушином кукареканьи</phrase>. Надо же как то <phrase type="indirect"><lex>анус</lex> охлаждать</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">Эта картинка старше тебя, <lex>свинюш</lex>. Будущее больно отдаленное выходит.</tox>
+</text>
+
+<text>
+<tox rate="9" response="person" type="profanity"><lex>Сука</lex> <phrase type="indirect">мои глаза кровоточат</phrase>, про какой там <lex>нахуй</lex> тубик тебе посты делать, <phrase type="direct"><lex>пяздуй</lex> за букварем</phrase> срочно!!!!</tox>
+</text>
+
+<text>
+<tox rate="10" response="post: animate" type="hate_speech: nationality">Зашел сказать, что <lex>хохлы</lex> <lex>подзалупный</lex> <lex>гной</lex>, которому скоро <phrase type="direct">придет триумфальный <lex>пиздец</lex></phrase>. у меня все.</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="hate_speech: nationality"><lex>Чуркабес</lex> плес, <phrase type="direct">иди трусы на рынке продавай</phrase>, <lex>чмырь</lex></tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">Ты забыл его <lex>хохлом</lex> обозвать, <lex>подсос</lex>.</tox>
+</text>
+
+<text>
+<tox rate="3" response="person" type="general_insult">Ну я смотрю - давай, <phrase type="indirect">облей меня <lex>говном</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Ты понимаешь что ты <lex>шизоид</lex>?</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">И ты все такой же <lex>даун</lex></tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult">именно, ты, <lex>сука</lex>, просто не понимаешь - в нашей семье кто то все время в разездах</tox>
+</text>
+
+<text>
+<tox rate="4" response="post: animate" type="general_insult">Полно таких <lex>дебилов</lex>, незнающих тему.</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult"><lex>пздц</lex> ты <lex>крохобор</lex>, стоило так позориться? Учитывая что ты покупаешь пуховики в снежной королеве, а не на рынке!</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult"><lex>Шизики</lex>, вот вам ещё для <phrase type="indirect">подогрева <lex>пердаков</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult"><phrase type="indirect">тебе таблетки тоже не помогают?</phrase></tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult"><lex>Нахуй</lex> этого <lex>неадеквата</lex>.</tox>
+</text>
+
+<text>
+<tox rate="10" response="post: animate" type="threat">А от вони, крыс и тараканов тебя не трясет? А то что оставляют пакеты, так это соседи <phrase type="indirect"><lex>свиньи</lex> <lex>ебаные</lex></phrase>. <phrase type="direct">Завари им дверь, пусть дома сидят, умирают</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult"><lex>Заебись</lex>. Тебе в любой теме <lex>пиздануть</lex> такое надо?</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Знаешь почему тебе 76? Потому, что <phrase type="direct"><lex>мудаки</lex> и на том свете никому не нужны</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="9" response="author" type="general_insult">вне зависимости от того, что ты <lex>высрешь</lex>, это не поменяет того факта, что какой-то <phrase type="indirect">петух из белгородской деревни зашибает в месяц в два, а то и три раза больше, чем твой <lex>алкаш</lex>-отец и <lex>шлюха</lex>-мать</phrase>, а ты и дальше будешь сидеть и <phrase type="direct"><lex>нахуй</lex> никому не нужный</phrase> <phrase type="indirect">сосать <lex>хуй</lex></phrase>, а ему присылать донаты, омегалул</tox>
+</text>
+
+<text>
+<tox rate="9" response="person" type="general_insult">Ну так давай паспорт, пруфы или <phrase type="direct"><lex>уебывай</lex> <lex>нахуй</lex></phrase> <phrase type="direct">демагог <lex>хуев</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="10" response="post: animate" type="threat"><phrase type="direct"><lex>стрелять</lex> в орущее <lex>быдло</lex></phrase></tox>
+</text>
+
+<text>
+<tox rate="2" response="post: animate" type="general_insult">почему ты простое <lex>хамло</lex> называешь художником?</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="harassment">А <phrase type="indirect">у тебя <lex>писечка</lex> поперек, или это только от мамы передаться может?</phrase></tox>
+</text>
+
+<text>
+<tox rate="2" response="author" type="general_insult">Хахаха. <phrase type="indirect">Автор пукнул мозгом</phrase>... Продолжительные аплодисменты...</tox>
+</text>
+
+<text>
+<tox rate="6" response="post: animate" type="hate_speech: nationality">как же любят <lex>чуркобесы</lex> свои автопортреты всюду лепить...</tox>
+</text>
+
+<text>
+<tox rate="8" response="post: animate" type="hate_speech: nationality"><phrase type="indirect">У хомо <lex>овцеебус</lex> вообще мозги иначе устроены, чем у нормальных людей</phrase>. Объяснять что-либо им бесполезно.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">Ты кому рассказываешь, теоретик? Я лично <phrase type="direct">бил в <lex>ебычи</lex></phrase> людям, которых искренне боялся. Ты просто решаешь что позор хуже <lex>пиздюлей</lex> и твердо намерен <lex>запиздить</lex> оппонента, грызть зубами.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="profanity"><lex>Пиздец</lex> у тебя чувство юмора, конечно...</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">Я атеист и армянин. Просто <phrase type="indirect">рот твой ебал</phrase></tox> <tox rate="10" response="post: animate" type="hate_speech: nationality">Лучше пусть <lex>чурки</lex> будут <lex>жидов</lex> резать, чем <lex>жиды</lex> вешать лапшу на уши</tox>
+</text>
+
+<text>
+<tox rate="9" response="person" type="hate_speech: nationality">Конечно, <phrase type="indirect">вы же собак <lex>ебете</lex></phrase>, <lex>блядь</lex>.</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="profanity">Ты, <lex>бля</lex>, <phrase type="indirect">не мороси</phrase>, служил, али как?</tox>
+</text>
+
+<text>
+<tox rate="6" response="post: animate" type="general_insult">Всегда считал пьющих <lex>биомусором</lex></tox>
+</text>
+
+<text>
+<tox rate="9" response="person" type="general_insult">ррряяяяя! <phrase type="direct">Пшла <lex>нахуй</lex></phrase> в свой <phrase type="indirect">петушиный загон</phrase>, <lex>вахтёропидарашка</lex>.</tox>
+</text>
+
+<text>
+<tox rate="7" response="post: animate" type="general_insult">В маках есть кнопки. Только <phrase type="direct">агрессивному <lex>быдлу</lex></phrase> обычно плевать на них, <phrase type="direct">пока его мордой в пол не уложат</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Как у <phrase type="indirect"><lex>сраных</lex> ватников</phrase> <phrase type="indirect"><lex>жопы</lex> горят</phrase>, любо смотреть)</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">vladtime <lex>Сука</lex>, что у тебя в голове?</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult">Ты <lex>блять</lex> кто? И почему решил, что мне нужно твое мнение?</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">Ты <lex>пиздабол</lex>, Стас не работал никогда ни с каким диктором. Это на 100 проц другой человек, <lex>ебаклак</lex></tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="hate_speech: nationality">Ну у вас там один <lex>хер</lex> нет никакой экологии, какая <lex>назуй</lex> разница будем посмотреть Ты еврей чтоли?</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult">Да да, именно так, <phrase type="indirect">ты дартаньян, остальные-<lex>гавно</lex></phrase></tox>
+</text>
+
+<text>
+<tox rate="9" response="post: animate" type="hate_speech: nationality">Топовые <lex>хохлухи</lex> от 10 за час, <lex>ептыть</lex>. 6 это более-менее. А за трешку только <phrase type="indirect"><lex>спидозные</lex> жинки атошек</phrase>, <lex>ебать</lex> их такое себе. <lex>Шлюхи</lex> в москве дорогие, <lex>сука</lex>.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">Ахах, чувак. Скажи, что пошутил неудачно, иначе это <lex>пиздец</lex>.</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult"><lex>Мань</lex>, я тебе задал прямой вопрос - как гомофоб, исламист, католик и атеист будут уживаться по соседству БЕЗ <phrase type="indirect"><lex>анальных</lex> карательных законов</phrase>? Как ты будешь их мирить? Ответь, пожалуйста, <lex>юродивый</lex> ты мой.</tox>
+</text>
+
+<text>
+<tox rate="3" response="post: animate" type="hate_speech: gender"><phrase type="direct"><lex>Тупые</lex> <lex>дуры</lex></phrase> даже не знают как есть банан</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">И <lex>хули</lex>?<phrase type="direct">Эмотивист ты <lex>ссаный</lex></phrase>??<lex>Маргинал</lex> тоже говорил, что ему взрослого больше жалко чем зиготу,но это сраные эмоции.Этика рационализирует мораль и уберает противоречия,<phrase type="indirect"><lex>хуй</lex> ты мутный</phrase></tox>
+</text>
+
+<text>
+<tox rate="4" response="author" type="general_insult">Боже , и ты потратил свое время в граф редакторе что бы это слелать ,<phrase type="direct">какая же у тебя жалкая жизнь</phrase> ,раз ты тратишь воемя на такое</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult"><phrase type="direct">Ты от <lex>дрочки</lex> похоже уже ослеп</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="9" response="post: inanimate" type="general_insult">Лурочка: Эльдорадо(<lex>Быдлорадо</lex>, <lex>Елдарада</lex>, <lex>Дилдорадо</lex>, <lex>Эльдорабство</lex>) <phrase type="direct"><lex>быдлосеть</lex> <lex>быдломагазинов</lex> <lex>быдлотехники</lex> и <lex>быдлоэлектроники</lex> для <lex>быдла</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">И зачем в сноске эти откровения <phrase type="indirect">Не виляй <lex>жопой</lex></phrase>, <lex>челядь</lex>. Твоя претензия была к тому, что ссылка якобы взята из непроверенного источника, во что я тебя и <phrase type="indirect">ткнул твоей неумытой <lex>харей</lex></phrase>. Ты <phrase type="indirect">пойман за руку как <lex>подлец</lex> и <lex>дешевка</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="9" response="person" type="threat">Ну давай. Отбери у меня нож, <lex>клоун</lex>, только я махну рукой и <phrase type="indirect">твои яйца разлетятся по всему арбату</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult">Они все не пилят по началу, тут от тебя не зависит ни чего, ты как раз советы даёшь как этот <lex>мужик</lex> в посте, ты в этой теме <phrase type="direct">не <lex>хера</lex> не понимаешь</phrase></tox>
+</text>
+
+<text>
+<tox rate="2" response="post: animate" type="general_insult"><phrase type="indirect">БМВизм головного мозга</phrase></tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="general_insult"><phrase type="direct">Вам бы к психиатру</phrase>, а не ко мне, а то видите то чего нет</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Впервые докопался , а надо было ждать второго-третьего раза, что бы <phrase type="direct">поставить <lex>утырка</lex> на место</phrase>? А может ты и сам был таким <lex>утырком</lex> в школе, и тебе обидно, что тебя какой-то новенький поставил на место?</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult"><phrase type="indirect">Ненужный кусок <lex>говна</lex> лезет во все щели</phrase>. E nt,z bpj hnf7 у тебя изо рта?</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">Начал хорошо, а по итогу <lex>доебался</lex> до орфографии. Какая разница, Екатерино- или Красно- славка, ежели там такая <lex>хуйня</lex> творится? Еще и про царское название и казаков что-то <lex>пукнул</lex>. Алёшенька, ты <phrase type="indirect"><lex>хуй</lex> с трамвайной ручкой не путай</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">Смотрите кокой я грозный пынявый <lex>лох</lex> и как я своими титиническими легкими <phrase type="indirect">мощно задуваю в сочную американскую <lex>залупу</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="3" response="post: animate" type="general_insult">Знал бы ты <phrase type="indirect">как меня тошнит при виде этого</phrase>...</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="threat">Не уходи, или <lex>сдохнешь</lex></tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">пук пук пук пук <phrase type="direct">МАЛОЛЕТНИЙ <lex>ДЕБИЛ</lex> <lex>НАСРАЛЬНЕНОК</lex></phrase> ОПЯТЬ <phrase type="indirect">НАВАЛИЛ <lex>ГАВНА</lex></phrase> В КАМЕНТАХ</tox>
+</text>
+
+<text>
+<tox rate="5" response="post: animate" type="hate_speech: gender">Изменила мужу <lex>шлюха</lex>. Всё просто.</tox>
+</text>
+
+<text>
+<tox rate="1" response="person" type="general_insult">Наверное, <phrase type="direct">ты не умеешь читать</phrase>, раз путаешь меня с другим человеком.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult"><phrase type="direct">ты заткнуться можешь?</phrase></tox>
+</text>
+
+<text>
+<tox rate="1" response="person" type="general_insult">И часто тебе <phrase type="indirect">заезжают мухобойкой</phrase>?</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">Действительно, с русским у тебя проблемы. Я тебе уже сказал - свободен, что <lex>бля</lex> непонятно?Полностью соответствуешь своему нику, <lex>осёл</lex>. В игнор, <lex>нерусь</lex>.</tox>
+</text>
+
+<text>
+<tox rate="4" response="person" type="hate_speech: lgbtq*">А ты гей-геронтофил )</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult">Главное, что ты в офисе сычевальне кукухой не едешь, сгорбился над своим компуктером, <phrase type="direct">никакого на намека на чсв или хотя бы просто элементарные зачатки личности</phrase> у тебя никогда и не было, кушаешь антидепрессанты, <lex>дрочишь</lex> на анимэ и <phrase type="indirect">подвякиваешь мамкиными вскудахтами</phrase> на двачах. Убермэнш, как есть.</tox>
+</text>
+
+<text>
+<tox rate="1" response="person" type="general_insult">По-моему ты просто <lex>зануда</lex></tox>
+</text>
+
+<text>
+<tox rate="6" response="post: animate" type="hate_speech: gender">Страдай, <lex>изврощенец</lex>. Однако раньше рядом с <lex>хрюканом</lex> получше были тянки. А сейчас <phrase type="indirect"><lex>недотрапы</lex> колхозные и <lex>шизанутые</lex></phrase>.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult">ты то с чем суешься? <phrase type="indirect">пшел под лавку</phrase></tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">да <phrase type="direct">пошел ты <lex>нахуй</lex></phrase> сашенька <lex>ебаный</lex></tox>
+</text>
+
+<text>
+<tox rate="7" response="post: animate" type="general_insult">Какой-то <lex>хуёвый</lex> хомяк.</tox>
+</text>
+
+<text>
+<tox rate="2" response="person" type="general_insult"><phrase type="indirect">Жирнейший тролль</phrase>, склочник и просто <phrase type="direct">неприятный человек</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="1" response="person" type="general_insult">Хахахах вот <lex>лошара</lex>, плюсиков не достанется</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult"><lex>Блядь</lex> ты <phrase type="indirect"><lex>жопой</lex> посты читаешь</phrase>?</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="general_insult">А может быть ты <lex>долбаеб</lex>, аэээм?</tox>
+</text>
+
+<text>
+<tox rate="5" response="person" type="general_insult"><lex>Пидр</lex> ты, эксклюзивный.</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">Дим-Юрич, идите <lex>выёбываться</lex> в свой тред.</tox>
+</text>
+
+<text>
+<tox rate="3" response="post: animate" type="general_insult"><lex>Идиоты</lex> проникают во все сферы жизни 5 дней снимает ролики с зумом на фурункул</tox>
+</text>
+
+<text>
+<tox rate="1" response="post: animate" type="general_insult"><lex>Брехня</lex> какая-то. Что-то мне кажется, гинеколог не будет своему коллеге говорить <lex>дурак</lex> .</tox>
+</text>
+
+<text>
+<tox rate="8" response="person" type="general_insult">Что, <lex>сученок</lex>, мало я тебя <phrase type="indirect"><lex>говном</lex> в попереднем треде накормил</phrase>? Сюда прибежал?</tox>
+</text>
+
+<text>
+<tox rate="6" response="person" type="general_insult">Ты че несешь то <phrase type="direct"><lex>поехавший</lex> <lex>шизодаун</lex></phrase>? Ты еще дефолт вспомни</tox>
+</text>
+
+<text>
+<tox rate="8" response="post: animate" type="general_insult"><phrase type="direct">Идите <lex>нахуй</lex></phrase> со своей свиньей <lex>обосраной</lex> (не могу его смотреть из-за того что он <phrase type="indirect">разговаривает как <lex>даун</lex></phrase>)</tox>
+</text>
+
+<text>
+<tox rate="9" response="person" type="profanity"><lex>Ебать</lex> вы <phrase type="direct"><lex>тупые</lex> <lex>дебилы</lex></phrase>, ой <lex>блять</lex></tox>
+</text>
+
+<text>
+<tox rate="4" response="post: animate" type="threat">Я бы на месте цыганки <lex>выбил</lex> бы телефон из рук и лицо бы <lex>поцарапал</lex>,за это ничего не будет,просто административный штраф,а пикабушник запомнит,что <phrase type="indirect"><lex>дерьмом</lex> по жизни быть нельзя</phrase> и судить других никто не имеет права.</tox>
+</text>
+
+<text>
+<tox rate="7" response="person" type="hate_speech: religion">Да мне <phrase type="indirect">по <lex>хуй</lex></phrase> на приличное общество!Я лично не вижу разницы между атеизмом и тем же православием!Тот же <lex>хуй</lex> только в другой руке!И не тебе мне говорить что писать мне,а что нет.Так что идите товарищь мимо! А то видите упоминание бога и все, начинается,<lex>стадо</lex>,что одни что другие</tox>
+</text>
+
+<text>
+<tox rate="10" response="post: animate" type="threat">Я ваш коммент курсором <lex>отпиздил</lex>, настолько он <lex>тупой</lex> и однобокий, а эту бабку я бы палкой <lex>отпиздил</lex> потому что это <phrase type="indirect">типичный куркуль недорезаный</phrase>, а <phrase type="indirect">наркоманские АУЕшники</phrase> для неё дело десятое.</tox>
+</text>
+
+<text>
+<tox rate="9" response="author" type="threat">Вы там осторожней, а то увидит что вы тут про него пишете и <phrase type="direct"><lex>переебёт</lex> с ноги</phrase>.</tox>
+</text>
+
+<text>
+<tox rate="7" response="author" type="general_insult"><phrase type="direct">Вали <lex>нахуй</lex></phrase>,<lex>мужик</lex> хоть нормальную себе найдет.</tox>
+</text>
+
+<text>
+<tox rate="7" response="post: animate" type="threat">потом от <lex>пиздюлей</lex> и правда хромой станет</tox>
+</text>
+
+<text>
+<tox rate="9" response="person" type="threat">Встретил бы я тебя на улице, ох и поплакал бы ты горькими слезами.</tox>
+</text>
+
+</data>
